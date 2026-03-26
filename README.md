@@ -1,7 +1,6 @@
 ### Olá, meu nome é Herlinton Filho e esse é o meu mundo 🌎🌎
 
-- 💻 Atualmente trabalho com Back-end
-- 📚 Estudando: NodeJS e PHP
+- 💻 Atualmente trabalho com Back-end utilizando PHP e NodeJS
 
 <div style="center">
   <a href="https://github.com/HerlintonFilho">
